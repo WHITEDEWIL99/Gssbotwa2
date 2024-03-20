@@ -22,11 +22,11 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = '_𝗜ᵀ𝚣 𝗠ᴇ 𝗦𝙸ˢˢ𝗢𝚁_';
+global.owner = ['99742200945'];
+global.premium = ['94742200945'];
+global.packname = '_𝗜ᵀ𝚣 𝗠ᴇ 𝗦𝙸ˢˢ𝗢𝚁_';
+global.author = '𝗤𝗨𝗘𝗘𝗡-𝗛𝗘𝗟𝗔𝗡𝗞𝗔 ▎▎🧡🍃';
 global.sessionName = 'session';
 global.prefa = ['', '!', '.'];
 global.sp = '✪';
